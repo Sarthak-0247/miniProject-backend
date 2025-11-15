@@ -10,7 +10,8 @@ app.get("/testing" , (req,res) => {
         success : true,
         data : {
             name : "sachin",
-            no : "885975"
+            no : "885975",
+            update : "new update"
         }
     })
 })
